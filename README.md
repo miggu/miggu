@@ -1,6 +1,6 @@
 Hi there, I'm Miguel Gomez 🙂
 
-<div style="display:flex; border: 1px solid red">
+<div style="border: 1px solid red">
 🤖 I build software for work
 📱 I build software for fun
 🧑🏽‍🎨 I paint
