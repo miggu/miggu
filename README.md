@@ -1,4 +1,10 @@
-### Hi there, I'm Miguel Gomez 🙂
+Hi there, I'm Miguel Gomez 🙂
+
+
+🤖 I build software for work
+📱 I build software for fun
+🧑🏽‍🎨 I paint
+
 
 <!--
 **miggu/miggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
