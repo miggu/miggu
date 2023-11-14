@@ -1,11 +1,11 @@
 Hi there, I'm Miguel Gomez 🙂
 
 
- 🤖 I build software for work
+🤖 I build software for work
   
 📱 I build software for fun
 
-🧑🏽‍🎨 I paint
+
 
 
 <!--
